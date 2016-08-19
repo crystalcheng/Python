@@ -1,3 +1,2 @@
-a python which can get versionname of apk
-
-by Crystal Cheng
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
